@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zerogravity_Meghdut>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Zerogravity_Meghdut>
+    </modules>
+</config>
